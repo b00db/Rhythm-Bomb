@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="rythm01.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="rythm01Doc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="rythm01View.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="rythm01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rythm01Doc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="rythm01View.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="rythm01.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\rythm01.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\rythm01Doc.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\rythm01.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\cha2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\bang.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\heart_broken.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\heart_full.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\green.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\red.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\orange.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\yellow.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\green.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\orange.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\red.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\yellow.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\white.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\BG.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\SELECTPAGE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\startpage.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\startbtn.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\OVERWATCH_Song_Cover2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\Virus_Song_Cover2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\BACK_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\SELECT_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\LEFT.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RIGHT.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RANK\SRANK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RANK\ARANK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RANK\BRANK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RANK\CRANK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\RANK\RANK_BACK.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastBoom_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastDestination_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastEnergetic__Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastLoveScenario_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastMental Rider_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastPassacaglia_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastTribe Attacker_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\LastWedding Crashers_Song_Cover.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\songbg\neon_selected.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\START_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\Red Button\START_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\Red Button\BACK_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\button\Red Button\SELECT_BUTTON.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ArrowButton\LEFT.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ArrowButton\LEFT_BLUE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ArrowButton\RIGHT.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\ArrowButton\RIGHT_BLUE.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-easy.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-hard.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-Medium.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-easy (1).bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-hard (1).bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="res\mode\star-Medium (1).bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
